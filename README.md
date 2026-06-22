@@ -1,5 +1,9 @@
 # Hermes Core Skills
 
+**25 executable AI agent skills for Claude Code, Codex, Cursor CLI, and Hermes Agent. Drop-in ready, zero config, MIT licensed.**
+
+Stop burning tokens on agent loops. Stop re-explaining context. Stop watching AI coding agents fix one bug and create three more. These skills give your agent battle-tested workflows for debugging, planning, code review, security, and automation — all in portable markdown files.
+
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/stargazers)
@@ -10,6 +14,26 @@
 [![Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
 
 </div>
+
+## 🔥 Quick Start
+
+```bash
+# Clone the repo
+git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git
+
+# Claude Code — copy skills into your agent's skill directory
+cp -r hermes-core-skills/skills/* ~/.claude/skills/
+
+# Cursor CLI — same format, same path
+cp -r hermes-core-skills/skills/* ~/.cursor/skills/
+
+# Hermes Agent — skills are auto-dispatched
+# Codex — copy skills into your project's .codex/skills/
+```
+
+**That's it.** No config files. No dependencies. Your agent loads the skill when it matches the trigger condition.
+
+---
 
 **Your AI coding agent keeps doing dumb things? Here's the fix.**
 
@@ -35,19 +59,6 @@ After months of daily battles with Hermes Agent — burning tokens, losing conte
 | **subagent-driven-development** | Split into subagents, review after | Complex tasks overwhelm a single agent's context |
 | **token-efficiency** | Every token counts | End-of-month surprise bills |
 | **checkpoints-and-rewind** | Auto-backup before any change | Agent destroys a file, can't recover |
-
-### Installation
-
-```bash
-# Hermes Agent
-# Skills are auto-dispatched - copy to your skills directory:
-
-# Claude Code
-cp -r skills/* ~/.claude/skills/
-
-# Cursor
-cp -r skills/* ~/.cursor/skills/
-```
 
 ### What's Inside
 
@@ -95,6 +106,13 @@ cp -r skills/* ~/.cursor/skills/
 | **openclaw-hermes-arch** | Your architecture diagram | Don't understand how agent and gateway divide work | Clear responsibility docs + failover mechanism |
 | **hermes-agent** | Your Hermes setup guide | New to Hermes, don't know how to set up | Complete zero-to-running guide |
 | **autonomous-work-signaling** | Your team coordinator | Multiple autonomous agents don't know what each other is doing | Cross-session work status synchronization |
+
+### 📖 Documentation
+
+- [Website](https://chrislamlayer1-gif.github.io/hermes-core-skills/)
+- [Discussions](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
+- [Contributing](CONTRIBUTING.md)
+- [License](LICENSE)
 
 ### License
 
