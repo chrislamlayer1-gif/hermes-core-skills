@@ -1,5 +1,16 @@
 # Hermes Core Skills
 
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/forks)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-ready-8A2BE2?style=for-the-badge&logo=python)](https://github.com/NousResearch/hermes-agent)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-8A2BE2?style=for-the-badge&logo=anthropic)](https://claude.ai)
+[![Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
+
+</div>
+
 **Your AI coding agent keeps doing dumb things? Here's the fix.**
 
 After months of daily battles with Hermes Agent — burning tokens, losing context, watching agents fix one bug and create three more — these skills are the hard-earned lessons. Each one is an executable workflow, not vague advice. Your agent loads it and follows it.
