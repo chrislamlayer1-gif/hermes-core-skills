@@ -5,6 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/forks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Skills](https://img.shields.io/badge/Skills-25-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-8A2BE2?style=for-the-badge&logo=anthropic)](https://claude.ai)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
 [![Cursor](https://img.shields.io/badge/Cursor-ready-8A2BE2?style=for-the-badge&logo=cursor)](https://cursor.sh)
@@ -14,9 +15,17 @@
 
 **Your AI coding agent keeps doing dumb things? Here's the fix.**
 
-After months of daily battles with Hermes Agent — burning tokens, losing context, watching agents fix one bug and create three more — these skills are the hard-earned lessons. Each one is an executable workflow, not vague advice. Your agent loads it and follows it.
-
 ---
+
+## 😤 You've been there:
+
+- **#1** Agent does `/clear` and forgets everything — you re-explain from scratch
+- **#2** Agent sees "fix this bug" and starts changing code — one fix, three new bugs
+- **#3** Token burns fast — $5 gone before lunch, and you don't know why
+- **#4** Context fills up and agent starts forgetting what you said 5 minutes ago
+- **#5** Agent pushes code changes without asking — you only find out when it breaks
+
+**This pack of 25 executable skills fixes all of that.** Not vague advice. Step-by-step workflows your agent loads and follows.
 
 <div align="center">
 
@@ -28,23 +37,16 @@ After months of daily battles with Hermes Agent — burning tokens, losing conte
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start (30 seconds)
 
 ```bash
-# Option 1: Clone the repository
-git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git
-cd hermes-core-skills
-
-# Option 2: Copy skills directly to your agent
 cp -r skills/* ~/.claude/skills/   # Claude Code
 cp -r skills/* ~/.cursor/skills/   # Cursor
 cp -r skills/* ~/.codex/skills/    # OpenAI Codex
 # Hermes Agent: auto-dispatched from ~/.hermes/skills/
 ```
 
-Works immediately with **Claude Code, OpenAI Codex CLI, Cursor, Hermes Agent, and any MCP-compatible platform**.
-
-> 💡 **New to AI agents?** Just copy the skills folder. Then tell your agent: *"I just installed Hermes Core Skills. Please use the systematic-debugging skill to help with this problem."* Your agent will understand.
+**Then tell your agent:** *"Use the systematic-debugging skill to help me with this error."*
 
 ---
 
