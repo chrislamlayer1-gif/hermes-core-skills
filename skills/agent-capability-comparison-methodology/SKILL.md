@@ -1,13 +1,8 @@
 ---
 name: agent-capability-comparison-methodology
-description: Use when the user asks to compare two AI coding agents/tools (e.g. Hermes Agent vs OpenAI Codex). Documents the evidence-based multi-source comparison methodology.
-  triggers:
-    - compare agent
-    - vs
-    - versus
-    - which agent
-    - evaluate tool
-    - compare tool
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 
 ---
 

@@ -1,6 +1,9 @@
 ---
 name: hermes-improvement-multiphase-plan
 description: Structured multi-phase plan for improving Hermes Agent — IDE docs, release frequency, plugin marketplace, desktop app, and Rust performance.
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # Hermes Agent Multiphase Improvement Plan

@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [Setup, Configuration, CLI, Agent, Coding-Agent, Multi-Agent, Autonomous, Orchestration]
+    platform: [cursor, codex, claude-code]
     related_skills: [claude-code, codex, opencode]
 ---
 

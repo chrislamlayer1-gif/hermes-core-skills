@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [debugging, troubleshooting, problem-solving, root-cause, investigation]
+    platform: [cursor, codex, claude-code]
     related_skills: [test-driven-development, writing-plans, subagent-driven-development]
   triggers:
     - bug
