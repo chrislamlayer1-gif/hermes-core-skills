@@ -9,9 +9,10 @@ Stop burning tokens on agent loops. Stop re-explaining context. Stop watching AI
 [![GitHub stars](https://img.shields.io/github/stars/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/forks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-ready-8A2BE2?style=for-the-badge&logo=python)](https://github.com/NousResearch/hermes-agent)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-8A2BE2?style=for-the-badge&logo=anthropic)](https://claude.ai)
-[![Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
+[![Cursor](https://img.shields.io/badge/Cursor-ready-8A2BE2?style=for-the-badge&logo=cursor)](https://cursor.sh)
+[![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-ready-8A2BE2?style=for-the-badge&logo=python)](https://github.com/NousResearch/hermes-agent)
 
 </div>
 
@@ -49,6 +50,40 @@ After months of daily battles with Hermes Agent — burning tokens, losing conte
 
 **This skill pack fixes all of that.**
 
+---
+
+### 📦 Quick Start (2 minutes)
+
+Drop these skills into your agent and you're done:
+
+#### Claude Code
+```bash
+cp -r skills/* ~/.claude/skills/
+```
+Claude Code auto-discovers skills in `~/.claude/skills/`. Run `claude` and ask it to use any skill by name (e.g., "Run systematic-debugging on this error").
+
+#### Cursor
+```bash
+cp -r skills/* ~/.cursor/skills/
+```
+Cursor's agent reads skills from `~/.cursor/skills/`. Skills appear in agent context automatically. Ask: "Use the writing-plans skill to plan this feature."
+
+#### OpenAI Codex
+```bash
+cp -r skills/* ~/.codex/skills/
+```
+Codex loads skills from `~/.codex/skills/`. Reference a skill in your prompt: "Follow the token-efficiency skill for this task."
+
+#### Hermes Agent
+Hermes auto-dispatches skills by name — skills are built into the agent workflow. Skills in `~/.hermes/skills/` are loaded automatically when their name matches the task context.
+
+#### Any MCP-compatible Agent
+Skills are plain Markdown files. Point your agent to the `skills/` directory. MCP agents can load them as workflow context via their file system tools.
+
+> 💡 **New to AI agents?** Just copy the skills folder, then tell your agent: "I just installed Hermes Core Skills. Please use the systematic-debugging skill to help me with this problem." Your agent will know what to do.
+
+---
+
 ### ✨ Highlight Skills
 
 | Skill | One-liner | Problem it solves |
@@ -60,7 +95,13 @@ After months of daily battles with Hermes Agent — burning tokens, losing conte
 | **token-efficiency** | Every token counts | End-of-month surprise bills |
 | **checkpoints-and-rewind** | Auto-backup before any change | Agent destroys a file, can't recover |
 
+<<<<<<< HEAD
 ### What's Inside
+=======
+---
+
+### 📋 What's Inside
+>>>>>>> dcfcbf4 (README: platform-specific Quick Start, contribute section, CODEOWNERS, issue template)
 
 #### 🧠 Agent Core (13 skills)
 
@@ -107,6 +148,7 @@ After months of daily battles with Hermes Agent — burning tokens, losing conte
 | **hermes-agent** | Your Hermes setup guide | New to Hermes, don't know how to set up | Complete zero-to-running guide |
 | **autonomous-work-signaling** | Your team coordinator | Multiple autonomous agents don't know what each other is doing | Cross-session work status synchronization |
 
+<<<<<<< HEAD
 ### 📖 Documentation
 
 - [Website](https://chrislamlayer1-gif.github.io/hermes-core-skills/)
@@ -115,5 +157,30 @@ After months of daily battles with Hermes Agent — burning tokens, losing conte
 - [License](LICENSE)
 
 ### License
+=======
+---
+
+### 🤝 How to Contribute
+
+We'd love your help! Here's how to get started:
+
+**Good first issues (no coding needed):**
+- 📝 **Review a skill** — Try one and open an issue with your feedback
+- 🌐 **Translate README** — Pick your language and submit a translation
+- 🐛 **Report a bug** — If a skill doesn't work with your agent, let us know
+- ✨ **Suggest new skills** — Open a discussion with your pain point
+
+**Code contributions:**
+1. Browse [open issues](https://github.com/chrislamlayer1-gif/hermes-core-skills/issues) — look for `good first issue` labels
+2. Fork the repo and create a feature branch
+3. Make your changes and submit a PR
+4. Your PR will be reviewed within 48 hours
+
+All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). See the [Contributing Guide](CONTRIBUTING.md) for details.
+
+---
+
+### 📄 License
+>>>>>>> dcfcbf4 (README: platform-specific Quick Start, contribute section, CODEOWNERS, issue template)
 
 MIT — Use freely, contribute back when you can.

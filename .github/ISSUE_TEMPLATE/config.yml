@@ -3,6 +3,9 @@ contact_links:
   - name: Q&A
     url: https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions/categories/q-a
     about: Ask questions in Discussions
-  - name: Feature requests
-    url: https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions/categories/ideas
-    about: Share ideas in Discussions
+  - name: 💡 Feature Request / Discussion
+    url: https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions
+    about: Start a discussion for feature ideas or questions
+  - name: 🐛 Bug Report
+    url: https://github.com/chrislamlayer1-gif/hermes-core-skills/issues/new?labels=bug
+    about: Report a skill that doesn't work with your agent
