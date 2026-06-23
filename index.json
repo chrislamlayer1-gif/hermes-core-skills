@@ -1,0 +1,309 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-06-23T10:00:00Z",
+  "repository": "https://github.com/chrislamlayer1-gif/hermes-core-skills",
+  "domain": "ai-agent-workflows",
+  "total_skills": 25,
+  "skills": [
+    {
+      "name": "agent-capability-comparison-methodology",
+      "description": "Compare two AI coding agents/tools using evidence-based multi-source methodology",
+      "domain": "ecosystem",
+      "subdomain": "agent-comparison",
+      "path": "skills/agent-capability-comparison-methodology",
+      "tokens": {
+        "scan": 105,
+        "load": 1725,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "autonomous-work-signaling",
+      "description": "Signal work status across autonomous sessions to prevent coordination failures",
+      "domain": "cross-session",
+      "subdomain": "continuity",
+      "path": "skills/autonomous-work-signaling",
+      "tokens": {
+        "scan": 135,
+        "load": 2040,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "batch-skill-description-standardization",
+      "description": "Standardize descriptions across many skills at once for consistency",
+      "domain": "ecosystem",
+      "subdomain": "agent-skills",
+      "path": "skills/batch-skill-description-standardization",
+      "tokens": {
+        "scan": 135,
+        "load": 2265,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "checkpoints-and-rewind",
+      "description": "Auto-backup before irreversible changes with rollback capability",
+      "domain": "agent-core",
+      "subdomain": "safety",
+      "path": "skills/checkpoints-and-rewind",
+      "tokens": {
+        "scan": 315,
+        "load": 3000,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "context-aware-task-decomposition",
+      "description": "Auto-decompose tasks when context is full to prevent agent forgetting",
+      "domain": "agent-core",
+      "subdomain": "efficiency",
+      "path": "skills/context-aware-task-decomposition",
+      "tokens": {
+        "scan": 270,
+        "load": 765,
+        "category": "standard"
+      }
+    },
+    {
+      "name": "context-compaction-verification-and-recovery",
+      "description": "Verify tool commands actually executed after context compaction",
+      "domain": "agent-core",
+      "subdomain": "efficiency",
+      "path": "skills/context-compaction-verification-and-recovery",
+      "tokens": {
+        "scan": 150,
+        "load": 3285,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "cross-session-execution-framework",
+      "description": "Manage long-term projects across multiple agent sessions with state persistence",
+      "domain": "cross-session",
+      "subdomain": "continuity",
+      "path": "skills/cross-session-execution-framework",
+      "tokens": {
+        "scan": 105,
+        "load": 3075,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "hermes-agent",
+      "description": "Complete guide to setting up and extending Hermes Agent",
+      "domain": "cross-session",
+      "subdomain": "setup",
+      "path": "skills/hermes-agent",
+      "tokens": {
+        "scan": 180,
+        "load": 795,
+        "category": "standard"
+      }
+    },
+    {
+      "name": "hermes-improvement-multiphase-plan",
+      "description": "Multi-phase plan for improving Hermes Agent capabilities",
+      "domain": "cross-session",
+      "subdomain": "setup",
+      "path": "skills/hermes-improvement-multiphase-plan",
+      "tokens": {
+        "scan": 105,
+        "load": 2325,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "multi-agent-browser-text-extraction",
+      "description": "Extract text from JS-heavy websites using parallel browser subagents",
+      "domain": "ecosystem",
+      "subdomain": "agent-skills",
+      "path": "skills/multi-agent-browser-text-extraction",
+      "tokens": {
+        "scan": 195,
+        "load": 1680,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "multi-role-synthesis-framework",
+      "description": "Multiple roles analyze a design from different perspectives for integrated verdict",
+      "domain": "ecosystem",
+      "subdomain": "agent-comparison",
+      "path": "skills/multi-role-synthesis-framework",
+      "tokens": {
+        "scan": 120,
+        "load": 2445,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "open-source-adaptation-pattern",
+      "description": "Evaluate whether an open-source project fits your needs with 4-dimension analysis",
+      "domain": "ecosystem",
+      "subdomain": "agent-comparison",
+      "path": "skills/open-source-adaptation-pattern",
+      "tokens": {
+        "scan": 105,
+        "load": 1485,
+        "category": "standard"
+      }
+    },
+    {
+      "name": "openclaw-hermes-arch",
+      "description": "Understand how OpenClaw gateway and Hermes Agent divide work",
+      "domain": "integration",
+      "subdomain": "architecture",
+      "path": "skills/openclaw-hermes-arch",
+      "tokens": {
+        "scan": 105,
+        "load": 1140,
+        "category": "standard"
+      }
+    },
+    {
+      "name": "plan",
+      "description": "Pure planning mode that outputs a checklist for approval before coding",
+      "domain": "agent-core",
+      "subdomain": "planning",
+      "path": "skills/plan",
+      "tokens": {
+        "scan": 180,
+        "load": 885,
+        "category": "standard"
+      }
+    },
+    {
+      "name": "requesting-code-review",
+      "description": "Security scan + quality gate + independent reviewer for agent code changes",
+      "domain": "agent-core",
+      "subdomain": "quality-control",
+      "path": "skills/requesting-code-review",
+      "tokens": {
+        "scan": 360,
+        "load": 5910,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "security-hardening-checklist",
+      "description": "Systematic security review covering input, auth, storage, and third-party dependencies",
+      "domain": "agent-core",
+      "subdomain": "safety",
+      "path": "skills/security-hardening-checklist",
+      "tokens": {
+        "scan": 330,
+        "load": 2595,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "self-regulation-brake-system",
+      "description": "Auto-stop agent after N repeated failures to prevent token burning",
+      "domain": "agent-core",
+      "subdomain": "safety",
+      "path": "skills/self-regulation-brake-system",
+      "tokens": {
+        "scan": 210,
+        "load": 2340,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "skill-slimming-strategy",
+      "description": "Trim verbose SKILL.md files to keep core workflow, move details to references",
+      "domain": "ecosystem",
+      "subdomain": "agent-skills",
+      "path": "skills/skill-slimming-strategy",
+      "tokens": {
+        "scan": 105,
+        "load": 1200,
+        "category": "standard"
+      }
+    },
+    {
+      "name": "spec-driven-development",
+      "description": "Write a spec before coding \u2014 the shared source of truth between agent and user",
+      "domain": "agent-core",
+      "subdomain": "planning",
+      "path": "skills/spec-driven-development",
+      "tokens": {
+        "scan": 315,
+        "load": 2910,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "subagent-driven-development",
+      "description": "Split complex tasks into parallel subagents with independent review then merge",
+      "domain": "agent-core",
+      "subdomain": "planning",
+      "path": "skills/subagent-driven-development",
+      "tokens": {
+        "scan": 315,
+        "load": 5640,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "systematic-debugging",
+      "description": "4-phase root cause investigation \u2014 no fixes without understanding the problem first",
+      "domain": "agent-core",
+      "subdomain": "quality-control",
+      "path": "skills/systematic-debugging",
+      "tokens": {
+        "scan": 405,
+        "load": 6600,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "test-driven-development",
+      "description": "RED-GREEN-REFACTOR cycle \u2014 no tests means not done",
+      "domain": "agent-core",
+      "subdomain": "quality-control",
+      "path": "skills/test-driven-development",
+      "tokens": {
+        "scan": 315,
+        "load": 5295,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "think-tool",
+      "description": "Pros-cons, trade-offs, and risk analysis before making decisions",
+      "domain": "agent-core",
+      "subdomain": "quality-control",
+      "path": "skills/think-tool",
+      "tokens": {
+        "scan": 315,
+        "load": 2880,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "token-efficiency",
+      "description": "Context compression, delegate strategy, and waste pattern avoidance to save tokens",
+      "domain": "agent-core",
+      "subdomain": "efficiency",
+      "path": "skills/token-efficiency",
+      "tokens": {
+        "scan": 285,
+        "load": 2490,
+        "category": "detailed"
+      }
+    },
+    {
+      "name": "writing-plans",
+      "description": "Write a plan with bite-size tasks, exact file paths, and code+test per task",
+      "domain": "agent-core",
+      "subdomain": "planning",
+      "path": "skills/writing-plans",
+      "tokens": {
+        "scan": 315,
+        "load": 4920,
+        "category": "detailed"
+      }
+    }
+  ]
+}

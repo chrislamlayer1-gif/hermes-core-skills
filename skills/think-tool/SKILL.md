@@ -18,6 +18,12 @@ metadata:
     - weigh up
     - what if
 
+domain: agent-core
+subdomain: quality-control
+tokens:
+  scan: 315
+  load: 2880
+  category: detailed
 ---
 
 # Think Tool

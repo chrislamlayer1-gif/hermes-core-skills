@@ -4,6 +4,12 @@ description: Use when a skill SKILL.md is over 2000 words and needs trimming to 
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: ecosystem
+subdomain: agent-skills
+tokens:
+  scan: 105
+  load: 1200
+  category: standard
 ---
 
 # Skill Slimming Strategy

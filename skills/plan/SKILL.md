@@ -9,6 +9,12 @@ metadata:
     tags: [planning, plan-mode, implementation, workflow]
     platform: [cursor, codex, claude-code]
     related_skills: [writing-plans, subagent-driven-development]
+domain: agent-core
+subdomain: planning
+tokens:
+  scan: 180
+  load: 885
+  category: standard
 ---
 
 # Plan Mode

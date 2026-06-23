@@ -6,6 +6,12 @@ author: Hermes Agent (experiential learning from superpowers CSO analysis)
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: ecosystem
+subdomain: agent-skills
+tokens:
+  scan: 135
+  load: 2265
+  category: detailed
 ---
 
 # Batch Skill Description Standardization

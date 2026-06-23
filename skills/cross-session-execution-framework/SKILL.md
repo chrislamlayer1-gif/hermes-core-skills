@@ -4,6 +4,12 @@ description: Use when managing a long-term project across multiple Hermes sessio
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: cross-session
+subdomain: continuity
+tokens:
+  scan: 105
+  load: 3075
+  category: detailed
 ---
 
 # 🪷 跨 Session 執行框架

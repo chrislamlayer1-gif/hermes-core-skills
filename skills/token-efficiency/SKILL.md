@@ -16,6 +16,12 @@ metadata:
     - compression
     - token budget
 
+domain: agent-core
+subdomain: efficiency
+tokens:
+  scan: 285
+  load: 2490
+  category: detailed
 ---
 
 # Token Efficiency

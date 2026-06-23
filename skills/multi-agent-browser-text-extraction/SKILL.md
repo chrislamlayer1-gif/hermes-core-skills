@@ -10,6 +10,12 @@ metadata:
     - web content
     - extract page
 
+domain: ecosystem
+subdomain: agent-skills
+tokens:
+  scan: 195
+  load: 1680
+  category: detailed
 ---
 # Multi-Agent Browser Text Extraction
 

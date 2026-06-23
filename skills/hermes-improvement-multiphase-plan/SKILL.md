@@ -4,6 +4,12 @@ description: Structured multi-phase plan for improving Hermes Agent — IDE docs
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: cross-session
+subdomain: setup
+tokens:
+  scan: 105
+  load: 2325
+  category: detailed
 ---
 
 # Hermes Agent Multiphase Improvement Plan

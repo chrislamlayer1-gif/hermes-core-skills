@@ -18,6 +18,12 @@ metadata:
     - how to
     - strategy
 
+domain: agent-core
+subdomain: planning
+tokens:
+  scan: 315
+  load: 4920
+  category: detailed
 ---
 
 # Writing Implementation Plans

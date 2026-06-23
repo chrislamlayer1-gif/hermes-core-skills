@@ -4,6 +4,12 @@ metadata:
   hermes:
     platform: [cursor, codex, claude-code]
 
+domain: ecosystem
+subdomain: agent-comparison
+tokens:
+  scan: 105
+  load: 1725
+  category: detailed
 ---
 
 # AI Agent 能力比較方法論

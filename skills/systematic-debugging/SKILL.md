@@ -24,6 +24,12 @@ metadata:
     - 死機
     - 閃退
 
+domain: agent-core
+subdomain: quality-control
+tokens:
+  scan: 405
+  load: 6600
+  category: detailed
 ---
 
 # Systematic Debugging

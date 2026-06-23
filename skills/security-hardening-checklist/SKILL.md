@@ -19,6 +19,12 @@ metadata:
     - harden
     - secure
 
+domain: agent-core
+subdomain: safety
+tokens:
+  scan: 330
+  load: 2595
+  category: detailed
 ---
 
 # Security Hardening Checklist

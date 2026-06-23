@@ -18,6 +18,12 @@ metadata:
     - build from scratch
     - 新功能
 
+domain: agent-core
+subdomain: planning
+tokens:
+  scan: 315
+  load: 2910
+  category: detailed
 ---
 
 # Spec-Driven Development

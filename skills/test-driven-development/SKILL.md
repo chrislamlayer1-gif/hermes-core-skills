@@ -18,6 +18,12 @@ metadata:
     - refactor
     - red green
 
+domain: agent-core
+subdomain: quality-control
+tokens:
+  scan: 315
+  load: 5295
+  category: detailed
 ---
 
 # Test-Driven Development (TDD)

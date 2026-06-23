@@ -4,6 +4,12 @@ description: Use when evaluating whether an open-source project fits our needs.
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: ecosystem
+subdomain: agent-comparison
+tokens:
+  scan: 105
+  load: 1485
+  category: standard
 ---
 
 # 開源項目分析與落地模式

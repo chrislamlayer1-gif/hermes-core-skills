@@ -4,6 +4,12 @@ description: Use when understanding the relationship between OpenClaw Gateway an
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: integration
+subdomain: architecture
+tokens:
+  scan: 105
+  load: 1140
+  category: standard
 ---
 
 # OpenClaw & Hermes — Independent Systems (Both on Same iMac)

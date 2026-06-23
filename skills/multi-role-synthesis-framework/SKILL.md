@@ -5,6 +5,12 @@ tags: [product, decision-making, role, synthesis, review]
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: ecosystem
+subdomain: agent-comparison
+tokens:
+  scan: 120
+  load: 2445
+  category: detailed
 ---
 
 # 🎭 多角色合成篩選框架

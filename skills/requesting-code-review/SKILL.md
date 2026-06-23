@@ -21,6 +21,12 @@ metadata:
     - commit ready
     - quality check
 
+domain: agent-core
+subdomain: quality-control
+tokens:
+  scan: 360
+  load: 5910
+  category: detailed
 ---
 
 # Pre-Commit Code Verification

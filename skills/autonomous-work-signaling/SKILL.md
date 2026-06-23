@@ -6,6 +6,12 @@ author: Hermes Agent (experiential learning from buddha-heart project, 2026-04-3
 metadata:
   hermes:
     platform: [cursor, codex, claude-code]
+domain: cross-session
+subdomain: continuity
+tokens:
+  scan: 135
+  load: 2040
+  category: detailed
 ---
 
 # Autonomous Work Signaling Protocol

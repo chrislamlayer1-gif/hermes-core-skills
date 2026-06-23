@@ -9,6 +9,12 @@ metadata:
     tags: [Setup, Configuration, CLI, Agent, Coding-Agent, Multi-Agent, Autonomous, Orchestration]
     platform: [cursor, codex, claude-code]
     related_skills: [claude-code, codex, opencode]
+domain: cross-session
+subdomain: setup
+tokens:
+  scan: 180
+  load: 795
+  category: standard
 ---
 
 # Hermes Agent Guide

@@ -15,6 +15,12 @@ metadata:
     - too big
     - split
 
+domain: agent-core
+subdomain: efficiency
+tokens:
+  scan: 270
+  load: 765
+  category: standard
 ---
 
 # Context-Aware Task Decomposition

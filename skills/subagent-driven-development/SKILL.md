@@ -18,6 +18,12 @@ metadata:
     - background task
     - multiple things
 
+domain: agent-core
+subdomain: planning
+tokens:
+  scan: 315
+  load: 5640
+  category: detailed
 ---
 
 # Subagent-Driven Development

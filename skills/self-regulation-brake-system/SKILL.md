@@ -11,6 +11,12 @@ metadata:
     - stop retry
     - regulation
 
+domain: agent-core
+subdomain: safety
+tokens:
+  scan: 210
+  load: 2340
+  category: detailed
 ---
 
 # Self-Regulation Brake System

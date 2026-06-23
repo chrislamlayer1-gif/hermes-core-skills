@@ -7,6 +7,12 @@ metadata:
   hermes:
     tags: [context-compaction, recovery, verification, debug]
     platform: [cursor, codex, claude-code]
+domain: agent-core
+subdomain: efficiency
+tokens:
+  scan: 150
+  load: 3285
+  category: detailed
 ---
 
 # Context Compaction Verification & Recovery Protocol

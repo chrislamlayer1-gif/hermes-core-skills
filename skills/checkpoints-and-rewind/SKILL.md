@@ -18,6 +18,12 @@ metadata:
     - checkpoint
     - before change
 
+domain: agent-core
+subdomain: safety
+tokens:
+  scan: 315
+  load: 3000
+  category: detailed
 ---
 
 # Checkpoints & Rewind
