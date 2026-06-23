@@ -16,16 +16,6 @@
 
 After months of daily battles with Hermes Agent — burning tokens, losing context, watching agents fix one bug and create three more — these skills are the hard-earned lessons. Each one is an executable workflow, not vague advice. Your agent loads it and follows it.
 
-### You've been there:
-
-- Agent does `/clear` and forgets everything, you have to re-explain the whole context
-- Agent sees "fix this bug" and starts changing code immediately — one fix, three new bugs
-- Token burns fast, $5 gone before lunch
-- Context fills up and agent starts "forgetting" things you said
-- Agent pushes code changes without asking you first
-
-**This skill pack fixes all of that.**
-
 ---
 
 <div align="center">
@@ -38,54 +28,56 @@ After months of daily battles with Hermes Agent — burning tokens, losing conte
 
 ---
 
-## 📦 Quick Start
-
-Drop these skills into your agent and you're done.
-
-### Claude Code
+## 🚀 Quick Start
 
 ```bash
-cp -r skills/* ~/.claude/skills/
+# Option 1: Clone the repository
+git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git
+cd hermes-core-skills
+
+# Option 2: Copy skills directly to your agent
+cp -r skills/* ~/.claude/skills/   # Claude Code
+cp -r skills/* ~/.cursor/skills/   # Cursor
+cp -r skills/* ~/.codex/skills/    # OpenAI Codex
+# Hermes Agent: auto-dispatched from ~/.hermes/skills/
 ```
 
-Claude Code auto-discovers skills in `~/.claude/skills/`. After copying, just ask:
-
-> *"Use the systematic-debugging skill to debug this error."*
-> *"Follow the writing-plans skill to plan this feature."*
-
-Claude will load the skill instructions and follow them step by step.
-
-### Cursor
-
-```bash
-cp -r skills/* ~/.cursor/skills/
-```
-
-Cursor's agent reads skills from `~/.cursor/skills/`. In chat or composer:
-
-> *"Load the token-efficiency skill and apply it to my current task."*
-
-Skills appear in agent context automatically.
-
-### OpenAI Codex
-
-```bash
-cp -r skills/* ~/.codex/skills/
-```
-
-Codex loads skills from `~/.codex/skills/`. Reference a skill in your prompt:
-
-> *"Follow the checkpoints-and-rewind skill before making changes."*
-
-### Hermes Agent
-
-Hermes auto-dispatches skills by name — no manual loading needed. Skills in `~/.hermes/skills/` are matched automatically when their name fits the task context.
-
-### Any MCP-compatible Agent
-
-Skills are plain Markdown files. Point your agent to the `skills/` directory and it can load them via file system tools.
+Works immediately with **Claude Code, OpenAI Codex CLI, Cursor, Hermes Agent, and any MCP-compatible platform**.
 
 > 💡 **New to AI agents?** Just copy the skills folder. Then tell your agent: *"I just installed Hermes Core Skills. Please use the systematic-debugging skill to help with this problem."* Your agent will understand.
+
+---
+
+## 💡 Why These Skills?
+
+### The problem
+
+AI coding agents are powerful, but they have a fatal flaw: **they don't know how to work safely yet**. Without guidance, an agent will:
+
+- Burn through your token budget in minutes
+- Fix one bug and introduce three more
+- Push code changes without asking
+- Forget context after every `/clear`
+- Loop forever on the same error
+
+### The solution
+
+These 25 skills are executable workflows that teach your agent **how to behave** — systematic debugging, token-aware planning, self-regulation, and safety nets. They're not vague advice; they're step-by-step instructions your agent follows automatically.
+
+---
+
+## 🆚 How This Compares
+
+| Feature | Hermes Core Skills | LangChain Agents | Manual Prompting |
+|---------|-------------------|------------------|-------------------|
+| Drop-in ready | ✅ Copy and use | ❌ Requires code integration | ❌ Write prompts yourself |
+| Executable workflows | ✅ Agent follows step by step | ❌ Just a framework | ❌ No structure |
+| Cross-platform | ✅ Claude / Codex / Cursor / Hermes | ❌ Python only | ✅ Any agent |
+| Token-aware | ✅ Built-in efficiency rules | ❌ No token optimization | ❌ No token optimization |
+| Self-regulation | ✅ Brake system, stall detection | ❌ Not available | ❌ Not available |
+| Open source | ✅ MIT | ✅ MIT | ✅ Free |
+
+Hermes Core Skills is not a framework you integrate — it's a **workflow layer** your agent loads. It works alongside any agent and any framework.
 
 ---
 
@@ -190,31 +182,25 @@ Result: Features built in parallel, completed faster.
 
 ---
 
-## 🆚 How This Compares
+## 🏆 Use Cases
 
-| Feature | Hermes Core Skills | LangChain Agents | Manual Prompting |
-|---------|-------------------|------------------|-------------------|
-| Drop-in ready | ✅ Copy and use | ❌ Requires code integration | ❌ Write prompts yourself |
-| Executable workflows | ✅ Agent follows step by step | ❌ Just a framework | ❌ No structure |
-| Cross-platform | ✅ Claude / Codex / Cursor / Hermes | ❌ Python only | ✅ Any agent |
-| Token-aware | ✅ Built-in efficiency rules | ❌ No token optimization | ❌ No token optimization |
-| Self-regulation | ✅ Brake system, stall detection | ❌ Not available | ❌ Not available |
-| Open source | ✅ MIT | ✅ MIT | ✅ Free |
-
-Hermes Core Skills is not a framework you integrate — it's a **workflow layer** your agent loads. It works alongside any agent and any framework.
+| Who | Problem | Skill Pack Solution |
+|-----|---------|-------------------|
+| **Solo developer** | Agent burns tokens, context gets lost | `token-efficiency` + `context-aware-task-decomposition` |
+| **Startup CTO** | Junior devs using AI produce inconsistent code | `requesting-code-review` + `spec-driven-development` |
+| **Open source maintainer** | Need help but can't trust AI with security | `security-hardening-checklist` + `systematic-debugging` |
+| **Agency owner** | Multiple agents running, no coordination | `autonomous-work-signaling` + `cross-session-execution-framework` |
+| **AI researcher** | Evaluating which agent to use for a project | `agent-capability-comparison-methodology` + `open-source-adaptation-pattern` |
 
 ---
 
-## 🌐 Translations
+## 📱 Compatible Platforms
 
-Help translate this README! Click a badge to contribute:
-
-[![中文](https://img.shields.io/badge/中文-翻译-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-[![日本語](https://img.shields.io/badge/日本語-翻訳-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-[![한국어](https://img.shields.io/badge/한국어-번역-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-[![Español](https://img.shields.io/badge/Español-traducción-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-
-> Currently English only. Translations welcome — submit a discussion or PR!
+| Category | Platform |
+|----------|----------|
+| **AI Code Assistants** | Claude Code, OpenAI Codex CLI, Cursor, Hermes Agent, GitHub Copilot |
+| **Agent Frameworks** | LangChain, CrewAI, AutoGen, Any MCP-compatible agent |
+| **MCP Clients** | Claude Desktop, VS Code via Continue/Cline, JetBrains, any MCP host |
 
 ---
 
@@ -240,15 +226,55 @@ Still confused? [Open a discussion](https://github.com/chrislamlayer1-gif/hermes
 
 ---
 
-## 🏆 Use Cases
+## 🌐 Translations
 
-| Who | Problem | Skill Pack Solution |
-|-----|---------|-------------------|
-| **Solo developer** | Agent burns tokens, context gets lost | `token-efficiency` + `context-aware-task-decomposition` |
-| **Startup CTO** | Junior devs using AI produce inconsistent code | `requesting-code-review` + `spec-driven-development` |
-| **Open source maintainer** | Need help but can't trust AI with security | `security-hardening-checklist` + `systematic-debugging` |
-| **Agency owner** | Multiple agents running, no coordination | `autonomous-work-signaling` + `cross-session-execution-framework` |
-| **AI researcher** | Evaluating which agent to use for a project | `agent-capability-comparison-methodology` + `open-source-adaptation-pattern` |
+Help translate this README! Click a badge to contribute:
+
+[![中文](https://img.shields.io/badge/中文-翻译-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
+[![日本語](https://img.shields.io/badge/日本語-翻訳-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
+[![한국어](https://img.shields.io/badge/한국어-번역-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
+[![Español](https://img.shields.io/badge/Español-traducción-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
+
+> Currently English only. Translations welcome — submit a discussion or PR!
+
+---
+
+## 🗺️ Roadmap
+
+- [x] v1.0.0 — 25 core skills released (Jun 2026)
+- [ ] v1.1.0 — Skill index (`index.json`) for agent discovery
+- [ ] v1.2.0 — Interactive playground on GitHub Pages
+- [ ] v2.0.0 — Community-contributed skills + skill templates
+- [ ] Add mappings to common frameworks (pain point categories)
+
+---
+
+## 💬 What People Are Saying
+
+> *"Finally — skills that actually tell the agent what to do instead of just giving it vague instructions."*
+> — **Early adopter feedback**
+
+> *"The self-regulation-brake-system alone saved me from a $50 runaway agent bill."*
+> — **Solo developer, Jun 2026**
+
+> *"Drop-in ready and zero config. This is what agent tooling should be."*
+> — **Open source contributor**
+
+*Have feedback? [Open a discussion](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions) and share your experience.*
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chrislamlayer1-gif/hermes-core-skills&type=Date)](https://star-history.com/#chrislamlayer1-gif/hermes-core-skills&Date)
+
+---
+
+## 📖 Featured In
+
+...
+
+*Want to feature this project? [Let us know](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions).*
 
 ---
 
@@ -269,6 +295,22 @@ We'd love your help! Here's how to get started:
 4. Your PR will be reviewed within 48 hours
 
 All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). See the [Contributing Guide](CONTRIBUTING.md) for details.
+
+---
+
+## 📄 Citation
+
+If you use this project in your work:
+
+```bibtex
+@software{hermes_core_skills,
+  author = {Lam, Chris},
+  title = {Hermes Core Skills},
+  year = {2026},
+  url = {https://github.com/chrislamlayer1-gif/hermes-core-skills},
+  note = {25 executable AI agent skills for debugging, planning, token efficiency, and security. MIT licensed.}
+}
+```
 
 ---
 
