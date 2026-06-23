@@ -10,6 +10,7 @@ license: MIT
 metadata:
   hermes:
     tags: [code-review, security, verification, quality, pre-commit, auto-fix]
+    platform: [cursor, codex, claude-code]
     related_skills: [subagent-driven-development, writing-plans, test-driven-development, github-code-review]
   triggers:
     - review

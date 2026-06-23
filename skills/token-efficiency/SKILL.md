@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [token, efficiency, context, cost, optimization, compaction]
+    platform: [cursor, codex, claude-code]
     related_skills: [context-inheritance-subagent, writing-plans, subagent-driven-development]
   triggers:
     - token cost

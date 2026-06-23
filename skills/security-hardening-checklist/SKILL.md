@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [security, hardening, checklist, owasp, threat-model]
+    platform: [cursor, codex, claude-code]
     related_skills: [requesting-code-review, spec-driven-development]
   triggers:
     - security

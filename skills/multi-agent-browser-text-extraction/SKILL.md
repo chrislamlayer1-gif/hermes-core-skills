@@ -1,6 +1,9 @@
 ---
 name: multi-agent-browser-text-extraction
 description: Use delegate_task with multiple browser-equipped sub-agents to extract verbatim text from Chinese academic/religious websites with JavaScript-heavy tree navigation. Covers coordination patterns, site-specific navigation, error recovery, and QA verification.
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
   triggers:
     - browser extract
     - scrape

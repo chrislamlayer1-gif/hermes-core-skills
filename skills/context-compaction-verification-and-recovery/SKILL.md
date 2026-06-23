@@ -6,6 +6,7 @@ author: Hermes Agent
 metadata:
   hermes:
     tags: [context-compaction, recovery, verification, debug]
+    platform: [cursor, codex, claude-code]
 ---
 
 # Context Compaction Verification & Recovery Protocol

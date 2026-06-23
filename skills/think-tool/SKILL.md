@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [thinking, decision-making, reasoning, safety, planning]
+    platform: [cursor, codex, claude-code]
     related_skills: [spec-driven-development, systematic-debugging, security-hardening-checklist]
   triggers:
     - decision

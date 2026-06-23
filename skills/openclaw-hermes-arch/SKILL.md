@@ -1,6 +1,9 @@
 ---
 name: openclaw-hermes-arch
 description: Use when understanding the relationship between OpenClaw Gateway and Hermes Agent.
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # OpenClaw & Hermes — Independent Systems (Both on Same iMac)

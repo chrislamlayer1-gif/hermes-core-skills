@@ -2,6 +2,9 @@
 name: self-regulation-brake-system
 description: Brake system that auto-stops the agent after N repeated failures, prevents token burning on loops.
 tags: [self-regulation, brake, efficiency, feedback, timeout]
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
   triggers:
     - brake
     - fail limit

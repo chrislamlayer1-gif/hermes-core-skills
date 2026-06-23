@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [planning, plan-mode, implementation, workflow]
+    platform: [cursor, codex, claude-code]
     related_skills: [writing-plans, subagent-driven-development]
 ---
 

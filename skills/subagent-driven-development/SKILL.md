@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [delegation, subagent, implementation, workflow, parallel]
+    platform: [cursor, codex, claude-code]
     related_skills: [writing-plans, requesting-code-review, test-driven-development]
   triggers:
     - subagent

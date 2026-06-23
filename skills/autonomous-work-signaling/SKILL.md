@@ -3,6 +3,9 @@ name: autonomous-work-signaling
 description: Use when signaling work status across autonomous sessions.
 version: 1.0.0
 author: Hermes Agent (experiential learning from buddha-heart project, 2026-04-30)
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # Autonomous Work Signaling Protocol

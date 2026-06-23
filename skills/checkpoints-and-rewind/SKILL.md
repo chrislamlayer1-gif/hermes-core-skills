@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [checkpoints, rewind, safety, git, recovery, undo]
+    platform: [cursor, codex, claude-code]
     related_skills: [think-tool, systematic-debugging, subagent-driven-development]
   triggers:
     - backup

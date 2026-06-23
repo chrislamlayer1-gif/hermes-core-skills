@@ -4,6 +4,9 @@ description: Use when the context window is getting full and tasks need breaking
 version: 2.0.0
 author: Hermes Agent
 tags: [context, decomposition, task-management, efficiency, subagent]
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
   triggers:
     - complex task
     - break down

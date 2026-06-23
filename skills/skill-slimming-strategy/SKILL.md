@@ -1,6 +1,9 @@
 ---
 name: skill-slimming-strategy
 description: Use when a skill SKILL.md is over 2000 words and needs trimming to the Superpowers standard of under 500 words.
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # Skill Slimming Strategy

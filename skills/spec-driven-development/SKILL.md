@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [spec, planning, workflow, design, specification]
+    platform: [cursor, codex, claude-code]
     related_skills: [writing-plans, planning-and-task-breakdown, subagent-driven-development]
   triggers:
     - spec

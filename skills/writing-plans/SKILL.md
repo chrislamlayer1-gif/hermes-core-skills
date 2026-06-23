@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [planning, design, implementation, workflow, documentation]
+    platform: [cursor, codex, claude-code]
     related_skills: [subagent-driven-development, test-driven-development, requesting-code-review]
   triggers:
     - plan

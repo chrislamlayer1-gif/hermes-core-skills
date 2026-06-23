@@ -1,6 +1,9 @@
 ---
 name: cross-session-execution-framework
 description: Use when managing a long-term project across multiple Hermes sessions.
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # 🪷 跨 Session 執行框架

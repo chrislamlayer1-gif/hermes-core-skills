@@ -1,6 +1,9 @@
 ---
 name: open-source-adaptation-pattern
 description: Use when evaluating whether an open-source project fits our needs.
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # 開源項目分析與落地模式

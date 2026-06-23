@@ -3,6 +3,9 @@ name: batch-skill-description-standardization
 description: Use when needing to standardize descriptions across many skill files at once — change format, fix wording, or enforce a convention like 'Use when...' prefix.
 version: 1.0.0
 author: Hermes Agent (experiential learning from superpowers CSO analysis)
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # Batch Skill Description Standardization

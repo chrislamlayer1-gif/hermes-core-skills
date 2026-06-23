@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [testing, tdd, development, quality, red-green-refactor]
+    platform: [cursor, codex, claude-code]
     related_skills: [systematic-debugging, writing-plans, subagent-driven-development]
   triggers:
     - test

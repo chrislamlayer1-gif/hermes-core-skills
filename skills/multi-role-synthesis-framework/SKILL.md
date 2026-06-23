@@ -2,6 +2,9 @@
 name: multi-role-synthesis-framework
 description: Use when Chris wants multiple perspectives on a design/feature decision and then a final integrated verdict. 多角色各自俾建議 → 終極角色做篩選整合，避免單一角度的盲點。
 tags: [product, decision-making, role, synthesis, review]
+metadata:
+  hermes:
+    platform: [cursor, codex, claude-code]
 ---
 
 # 🎭 多角色合成篩選框架
