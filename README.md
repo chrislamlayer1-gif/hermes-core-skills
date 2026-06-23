@@ -29,9 +29,13 @@
 
 <div align="center">
 
-## 📸 Demo
+## 🎬 Demo
 
-*Screenshot coming soon — [watch the repo](https://github.com/chrislamlayer1-gif/hermes-core-skills) for updates*
+*Watch the full 30-second quick install — click to play!*
+
+![Install Demo](./screenshots/demo.svg)
+
+*SVG animation — works everywhere, no loading time, scales perfectly.*
 
 </div>
 

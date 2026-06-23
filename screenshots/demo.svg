@@ -1,0 +1,1852 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="734" height="550" viewBox="0 0 734 550">
+<defs>
+<style>
+@keyframes cursor-bl {from,to{opacity:1}50%{opacity:0}}
+.terminal { font-family: Menlo, Monaco, &#x27;Courier New&#x27;, monospace; font-size: 14px; }
+</style>
+</defs>
+<rect width="100%" height="100%" rx="8" fill="#1a1b26" />
+<rect x="0" y="0" width="100%" height="35" rx="8" fill="#24283b" />
+<rect x="0" y="25" width="100%" height="10" fill="#24283b" />
+<circle cx="14" cy="17" r="5" fill="#ff5f57" opacity="0.8" />
+<circle cx="30" cy="17" r="5" fill="#fdbc40" opacity="0.8" />
+<circle cx="46" cy="17" r="5" fill="#33c748" opacity="0.8" />
+<text x="367" y="24" text-anchor="middle" fill="#565f89" font-family="Menlo, Monaco, &#x27;Courier New&#x27;, monospace" font-size="12">hermes-core-skills — Quick Install Demo (80x24)</text>
+<g id="f0">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.0180;0.0190;0.0263;0.0273;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f1">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.0253;0.0263;0.0335;0.0345;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHerme</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f2">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.0325;0.0335;0.0408;0.0418;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f3">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.0398;0.0408;0.0829;0.0839;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f4">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.0819;0.0829;0.0939;0.0949;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f5">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.0929;0.0939;0.1043;0.1053;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f6">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1033;0.1043;0.1120;0.1130;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">~</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f7">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1110;0.1120;0.1196;0.1206;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git cl</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f8">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1186;0.1196;0.1272;0.1282;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone htt</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f9">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1262;0.1272;0.1349;0.1359;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://gi</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f10">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1339;0.1349;0.1425;0.1435;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.co</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f11">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1415;0.1425;0.1502;0.1512;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chris</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f12">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1492;0.1502;0.1578;0.1588;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlaye</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f13">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1568;0.1578;0.1654;0.1664;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f14">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1644;0.1654;0.1731;0.1741;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f15">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1721;0.1731;0.1807;0.1817;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-sk</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f16">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.1797;0.1807;0.2037;0.2047;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.gi</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f17">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.2027;0.2037;0.2463;0.2473;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">C</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f18">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.2453;0.2463;0.2637;0.2647;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">r</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f19">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.2627;0.2637;0.2815;0.2825;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">r</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f20">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.2805;0.2815;0.3068;0.3078;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">r</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f21">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.3058;0.3068;0.3295;0.3305;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">r</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f22">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.3285;0.3295;0.3468;0.3478;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">R</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f23">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.3458;0.3468;0.3784;0.3794;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">R</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f24">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.3774;0.3784;0.3894;0.3904;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f25">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.3884;0.3894;0.3995;0.4005;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f26">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.3985;0.3995;0.4071;0.4081;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">~</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f27">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4061;0.4071;0.4148;0.4158;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd her</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f28">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4138;0.4148;0.4224;0.4234;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-cor</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f29">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4214;0.4224;0.4453;0.4463;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skill</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f30">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4443;0.4453;0.4563;0.4573;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f31">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4553;0.4563;0.4707;0.4717;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f32">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4697;0.4707;0.4823;0.4833;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f33">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4813;0.4823;0.4899;0.4909;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">~</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f34">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4889;0.4899;0.4979;0.4989;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#7aa2f7">~/hermes-core-skills $</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f35">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.4969;0.4979;0.5161;0.5171;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#7aa2f7">~/hermes-core-skills $ ls skil</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f36">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5151;0.5161;0.5248;0.5258;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#bb9af7">[1;36m╔══════════════════════════════════════════════════════════╗[0m</text>
+<text class="terminal" x="20" y="74.6" fill="#bb9af7">[1;36m║     [1;33mHermes Core Skills[0m [1;36m— 25 AI Agent Skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#bb9af7"> ║[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#bb9af7">[1;36m║     [0mQuick Install Demo (1 minute)                    [1;36m║[0m</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#bb9af7">[1;36m╚══════════════════════════════════════════════════════════╝[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f37">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5238;0.5248;0.5405;0.5415;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 1:[0m Clone the repository</text>
+<text class="terminal" x="20" y="74.6" fill="#7aa2f7">~ $ git clone https://github.com/chrislamlayer1-gif/hermes-core-skills.git</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">Cloning into &#x27;hermes-core-skills&#x27;...</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">remote: Enumerating objects: 42, done.</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">remote: Counting objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">remote: Compressing objects: 100% (38/38), done.</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f38">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5395;0.5405;0.5696;0.5706;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">remote: Total 42 (delta 8), reused 24 (delta 3), pack-reused 0</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f39">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5686;0.5696;0.5772;0.5782;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f40">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5762;0.5772;0.5845;0.5855;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6">~</text>
+</g>
+<g id="f41">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5835;0.5845;0.5918;0.5928;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6">~/hermes-core-skills</text>
+</g>
+<g id="f42">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5908;0.5918;0.5994;0.6004;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ cp -r</text>
+</g>
+<g id="f43">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.5984;0.5994;0.6071;0.6081;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/</text>
+</g>
+<g id="f44">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6061;0.6071;0.6147;0.6157;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.cl</text>
+</g>
+<g id="f45">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6137;0.6147;0.6529;0.6539;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">Receiving objects: 100% (42/42), done.</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">Resolving deltas: 100% (8/8), done.</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/sk</text>
+</g>
+<g id="f46">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6519;0.6529;0.6639;0.6649;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="74.6" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f47">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6629;0.6639;0.6742;0.6752;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="74.6" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f48">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6732;0.6742;0.6815;0.6825;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="74.6" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6">~</text>
+</g>
+<g id="f49">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6805;0.6815;0.6888;0.6898;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="74.6" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6">~/hermes-core-skills</text>
+</g>
+<g id="f50">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6878;0.6888;0.6964;0.6974;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="74.6" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.</text>
+</g>
+<g id="f51">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.6954;0.6964;0.7040;0.7050;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="74.6" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/</text>
+</g>
+<g id="f52">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.7030;0.7040;0.7117;0.7127;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="74.6" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/</text>
+</g>
+<g id="f53">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.7107;0.7117;0.7310;0.7320;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 2:[0m Change directory</text>
+<text class="terminal" x="20" y="74.6" fill="#7aa2f7">~ $ cd hermes-core-skills</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -</text>
+</g>
+<g id="f54">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.7300;0.7310;0.7601;0.7611;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="74.6" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f55">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.7591;0.7601;0.7710;0.7720;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="74.6" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f56">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.7700;0.7710;0.8037;0.8047;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#9ece6a">[1;32mStep 3:[0m Install all 25 skills at once</text>
+<text class="terminal" x="20" y="74.6" fill="#565f89">[90m# Copy skills to your agent&#x27;s skills directory[0m</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f57">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.8027;0.8037;0.8147;0.8157;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f58">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.8137;0.8147;0.8284;0.8294;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#7aa2f7">~/hermes-core-skills $ ls skills/</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f59">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.8274;0.8284;0.8446;0.8456;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  agent-capability-comparison-methodology</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f60">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.8436;0.8446;0.8611;0.8621;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  batch-skill-description-standardization</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f61">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.8601;0.8611;0.8776;0.8786;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  checkpoints-and-rewind</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">  [36mTest-Driven Development[0m  → skills/test-driven-development/SKILL.md</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f62">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.8766;0.8776;0.9307;0.9317;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  context-aware-task-decomposition</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  context-compaction-verification-and-recovery</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  cross-session-execution-framework</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">  [36mTest-Driven Development[0m  → skills/test-driven-development/SKILL.md</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">  [36mCode Review[0m              → skills/requesting-code-review/SKILL.md</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f63">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.9297;0.9307;0.9417;0.9427;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  [36mTest-Driven Development[0m  → skills/test-driven-development/SKILL.md</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  [36mCode Review[0m              → skills/requesting-code-review/SKILL.md</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  [36mSecurity Hardening[0m       → skills/security-hardening-checklist/SKILL.md</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f64">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.9407;0.9417;0.9575;0.9585;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  github-code-review</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  [36mTest-Driven Development[0m  → skills/test-driven-development/SKILL.md</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  [36mCode Review[0m              → skills/requesting-code-review/SKILL.md</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">  [36mSecurity Hardening[0m       → skills/security-hardening-checklist/SKILL.md</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f65">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.9565;0.9575;0.9747;0.9757;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  github-pr-workflow</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  github-repo-management</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  [36mTest-Driven Development[0m  → skills/test-driven-development/SKILL.md</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6">  [36mCode Review[0m              → skills/requesting-code-review/SKILL.md</text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6">  [36mSecurity Hardening[0m       → skills/security-hardening-checklist/SKILL.md</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#bb9af7">[90m──────────────────────────────────────────────────────────[0m</text>
+<text class="terminal" x="20" y="505.80000000000024" fill="#a9b1d6"></text>
+</g>
+<g id="f66">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.9737;0.9747;0.9818;0.9828;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  hermes-agent</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  [36mTest-Driven Development[0m  → skills/test-driven-development/SKILL.md</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  [36mCode Review[0m              → skills/requesting-code-review/SKILL.md</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6">  [36mSecurity Hardening[0m       → skills/security-hardening-checklist/SKILL.md</text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#bb9af7">[90m──────────────────────────────────────────────────────────[0m</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">[1;35mNeed help? Open an issue → github.com/chrislamlayer1-gif/hermes-core-skill</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">s[0m</text>
+</g>
+<g id="f67">
+<animate attributeName="opacity" dur="27.489999999999526s" repeatCount="indefinite" keyTimes="0;0.9808;0.9818;1.0000;1.0000;1" values="0;0;1;1;0;0" />
+<text class="terminal" x="20" y="55" fill="#a9b1d6">  hermes-improvement-multiphase-plan</text>
+<text class="terminal" x="20" y="74.6" fill="#a9b1d6">  multi-agent-browser-text-extraction</text>
+<text class="terminal" x="20" y="94.19999999999999" fill="#a9b1d6">  ... and 13 more</text>
+<text class="terminal" x="20" y="113.79999999999998" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="133.39999999999998" fill="#7aa2f7">~/hermes-core-skills $ cp -r skills/* ~/.claude/skills/</text>
+<text class="terminal" x="20" y="152.99999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="172.59999999999997" fill="#9ece6a">[1;32mStep 4:[0m Verify installation</text>
+<text class="terminal" x="20" y="192.19999999999996" fill="#7aa2f7">~/hermes-core-skills $ ls ~/.claude/skills/ | wc -l</text>
+<text class="terminal" x="20" y="211.79999999999995" fill="#a9b1d6">      25</text>
+<text class="terminal" x="20" y="231.39999999999995" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="250.99999999999994" fill="#9ece6a">[1;32m✓ 25 skills installed and ready to use![0m</text>
+<text class="terminal" x="20" y="270.59999999999997" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="290.2" fill="#a9b1d6">[1;33mExplore skills by category:[0m</text>
+<text class="terminal" x="20" y="309.8" fill="#a9b1d6">  [36mSystematic Debugging[0m    → skills/systematic-debugging/SKILL.md</text>
+<text class="terminal" x="20" y="329.40000000000003" fill="#a9b1d6">  [36mTest-Driven Development[0m  → skills/test-driven-development/SKILL.md</text>
+<text class="terminal" x="20" y="349.00000000000006" fill="#a9b1d6">  [36mCode Review[0m              → skills/requesting-code-review/SKILL.md</text>
+<text class="terminal" x="20" y="368.6000000000001" fill="#a9b1d6">  [36mSecurity Hardening[0m       → skills/security-hardening-checklist/SKILL.md</text>
+<text class="terminal" x="20" y="388.2000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="407.8000000000001" fill="#a9b1d6"></text>
+<text class="terminal" x="20" y="427.40000000000015" fill="#bb9af7">[90m──────────────────────────────────────────────────────────[0m</text>
+<text class="terminal" x="20" y="447.00000000000017" fill="#a9b1d6">[1;35mNeed help? Open an issue → github.com/chrislamlayer1-gif/hermes-core-skill</text>
+<text class="terminal" x="20" y="466.6000000000002" fill="#a9b1d6">s[0m</text>
+<text class="terminal" x="20" y="486.2000000000002" fill="#a9b1d6">[1;35mStar the repo if you find it useful! ⭐[0m</text>
+</g>
+<rect x="367" y="358.59999999999997" width="8.68" height="14" fill="#c0caf5" opacity="0.6">
+  <animate attributeName="opacity" values="0.6;0;0.6" dur="1.2s" repeatCount="indefinite" />
+</rect>
+</svg>
