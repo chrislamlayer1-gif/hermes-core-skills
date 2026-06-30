@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ChrisLamDev/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/hermes-core-skills/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ChrisLamDev/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/hermes-core-skills/forks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/Skills-25-8A2BE2?style=for-the-badge)](https://github.com/ChrisLamDev/hermes-core-skills)
+[![Skills](https://img.shields.io/badge/Skills-26-8A2BE2?style=for-the-badge)](https://github.com/ChrisLamDev/hermes-core-skills)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-8A2BE2?style=for-the-badge&logo=anthropic)](https://claude.ai)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
 [![Cursor](https://img.shields.io/badge/Cursor-ready-8A2BE2?style=for-the-badge&logo=cursor)](https://cursor.sh)
@@ -25,7 +25,7 @@
 - **#4** Context fills up and agent starts forgetting what you said 5 minutes ago
 - **#5** Agent pushes code changes without asking — you only find out when it breaks
 
-**This pack of 25 executable skills fixes all of that.** Not vague advice. Step-by-step workflows your agent loads and follows.
+**This pack of 26 executable skills fixes all of that.** Not vague advice. Step-by-step workflows your agent loads and follows.
 
 <div align="center">
 
@@ -136,6 +136,7 @@ Result: Features built in parallel, completed faster.
 | **subagent-driven-development** | Split into subagents, review after | Complex tasks overwhelm a single agent's context |
 | **token-efficiency** | Every token counts | End-of-month surprise bills |
 | **checkpoints-and-rewind** | Auto-backup before any change | Agent destroys a file, can't recover |
+| **hermes-tweet** | X/Twitter research and gated actions | Agent needs current social context without unsafe account changes |
 
 ---
 

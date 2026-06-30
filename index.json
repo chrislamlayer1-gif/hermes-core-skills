@@ -3,7 +3,7 @@
   "generated_at": "2026-06-23T10:00:00Z",
   "repository": "https://github.com/ChrisLamDev/hermes-core-skills",
   "domain": "ai-agent-workflows",
-  "total_skills": 25,
+  "total_skills": 26,
   "skills": [
     {
       "name": "agent-capability-comparison-methodology",
@@ -223,7 +223,7 @@
     },
     {
       "name": "spec-driven-development",
-      "description": "Write a spec before coding \u2014 the shared source of truth between agent and user",
+      "description": "Write a spec before coding — the shared source of truth between agent and user",
       "domain": "agent-core",
       "subdomain": "planning",
       "path": "skills/spec-driven-development",
@@ -247,7 +247,7 @@
     },
     {
       "name": "systematic-debugging",
-      "description": "4-phase root cause investigation \u2014 no fixes without understanding the problem first",
+      "description": "4-phase root cause investigation — no fixes without understanding the problem first",
       "domain": "agent-core",
       "subdomain": "quality-control",
       "path": "skills/systematic-debugging",
@@ -259,7 +259,7 @@
     },
     {
       "name": "test-driven-development",
-      "description": "RED-GREEN-REFACTOR cycle \u2014 no tests means not done",
+      "description": "RED-GREEN-REFACTOR cycle — no tests means not done",
       "domain": "agent-core",
       "subdomain": "quality-control",
       "path": "skills/test-driven-development",
@@ -303,6 +303,18 @@
         "scan": 315,
         "load": 4920,
         "category": "detailed"
+      }
+    },
+    {
+      "name": "hermes-tweet",
+      "description": "Use Hermes Tweet for X/Twitter search, public signal research, monitoring, and approval-gated account actions",
+      "domain": "ecosystem",
+      "subdomain": "social-automation",
+      "path": "skills/hermes-tweet",
+      "tokens": {
+        "scan": 150,
+        "load": 1110,
+        "category": "standard"
       }
     }
   ]
