@@ -7,8 +7,8 @@ We take security seriously. If you discover a security vulnerability in any skil
 **Do NOT** open a public issue for security vulnerabilities.
 
 Instead, please:
-1. Email the maintainer via [GitHub Discussions](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-2. Or open a [private advisory](https://github.com/chrislamlayer1-gif/hermes-core-skills/security/advisories)
+1. Email the maintainer via [GitHub Discussions](https://github.com/ChrisLamDev/hermes-core-skills/discussions)
+2. Or open a [private advisory](https://github.com/ChrisLamDev/hermes-core-skills/security/advisories)
 
 You can expect:
 - Acknowledgment within 48 hours

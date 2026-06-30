@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/chrislamlayer1-gif/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/chrislamlayer1-gif/hermes-core-skills/forks)
+[![GitHub stars](https://img.shields.io/github/stars/ChrisLamDev/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/hermes-core-skills/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ChrisLamDev/hermes-core-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/hermes-core-skills/forks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/Skills-25-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills)
+[![Skills](https://img.shields.io/badge/Skills-25-8A2BE2?style=for-the-badge)](https://github.com/ChrisLamDev/hermes-core-skills)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-8A2BE2?style=for-the-badge&logo=anthropic)](https://claude.ai)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
 [![Cursor](https://img.shields.io/badge/Cursor-ready-8A2BE2?style=for-the-badge&logo=cursor)](https://cursor.sh)
@@ -228,7 +228,7 @@ Result: Features built in parallel, completed faster.
    - **Second**: `token-efficiency` — saves you money immediately
    - **Third**: `checkpoints-and-rewind` — safety net, never lose work
 
-Still confused? [Open a discussion](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions) — we'll help you get started.
+Still confused? [Open a discussion](https://github.com/ChrisLamDev/hermes-core-skills/discussions) — we'll help you get started.
 
 ---
 
@@ -236,10 +236,10 @@ Still confused? [Open a discussion](https://github.com/chrislamlayer1-gif/hermes
 
 Help translate this README! Click a badge to contribute:
 
-[![中文](https://img.shields.io/badge/中文-翻译-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-[![日本語](https://img.shields.io/badge/日本語-翻訳-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-[![한국어](https://img.shields.io/badge/한국어-번역-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
-[![Español](https://img.shields.io/badge/Español-traducción-8A2BE2?style=for-the-badge)](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions)
+[![中文](https://img.shields.io/badge/中文-翻译-8A2BE2?style=for-the-badge)](https://github.com/ChrisLamDev/hermes-core-skills/discussions)
+[![日本語](https://img.shields.io/badge/日本語-翻訳-8A2BE2?style=for-the-badge)](https://github.com/ChrisLamDev/hermes-core-skills/discussions)
+[![한국어](https://img.shields.io/badge/한국어-번역-8A2BE2?style=for-the-badge)](https://github.com/ChrisLamDev/hermes-core-skills/discussions)
+[![Español](https://img.shields.io/badge/Español-traducción-8A2BE2?style=for-the-badge)](https://github.com/ChrisLamDev/hermes-core-skills/discussions)
 
 > Currently English only. Translations welcome — submit a discussion or PR!
 
@@ -266,13 +266,13 @@ Help translate this README! Click a badge to contribute:
 > *"Drop-in ready and zero config. This is what agent tooling should be."*
 > — **Open source contributor**
 
-*Have feedback? [Open a discussion](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions) and share your experience.*
+*Have feedback? [Open a discussion](https://github.com/ChrisLamDev/hermes-core-skills/discussions) and share your experience.*
 
 ---
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=chrislamlayer1-gif/hermes-core-skills&type=Date)](https://star-history.com/#chrislamlayer1-gif/hermes-core-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ChrisLamDev/hermes-core-skills&type=Date)](https://star-history.com/#ChrisLamDev/hermes-core-skills&Date)
 
 ---
 
@@ -280,7 +280,7 @@ Help translate this README! Click a badge to contribute:
 
 ...
 
-*Want to feature this project? [Let us know](https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions).*
+*Want to feature this project? [Let us know](https://github.com/ChrisLamDev/hermes-core-skills/discussions).*
 
 ---
 
@@ -295,7 +295,7 @@ We'd love your help! Here's how to get started:
 - ✨ **Suggest new skills** — Open a discussion with your pain point
 
 **Code contributions:**
-1. Browse [open issues](https://github.com/chrislamlayer1-gif/hermes-core-skills/issues) — look for `good first issue` labels
+1. Browse [open issues](https://github.com/ChrisLamDev/hermes-core-skills/issues) — look for `good first issue` labels
 2. Fork the repo and create a feature branch
 3. Make your changes and submit a PR
 4. Your PR will be reviewed within 48 hours
@@ -313,7 +313,7 @@ If you use this project in your work:
   author = {Lam, Chris},
   title = {Hermes Core Skills},
   year = {2026},
-  url = {https://github.com/chrislamlayer1-gif/hermes-core-skills},
+  url = {https://github.com/ChrisLamDev/hermes-core-skills},
   note = {25 executable AI agent skills for debugging, planning, token efficiency, and security. MIT licensed.}
 }
 ```

@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Q&A
-    url: https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions/categories/q-a
+    url: https://github.com/ChrisLamDev/hermes-core-skills/discussions/categories/q-a
     about: Ask questions in Discussions
   - name: 💡 Feature Request / Discussion
-    url: https://github.com/chrislamlayer1-gif/hermes-core-skills/discussions
+    url: https://github.com/ChrisLamDev/hermes-core-skills/discussions
     about: Start a discussion for feature ideas or questions
   - name: 🐛 Bug Report
-    url: https://github.com/chrislamlayer1-gif/hermes-core-skills/issues/new?labels=bug
+    url: https://github.com/ChrisLamDev/hermes-core-skills/issues/new?labels=bug
     about: Report a skill that doesn't work with your agent
