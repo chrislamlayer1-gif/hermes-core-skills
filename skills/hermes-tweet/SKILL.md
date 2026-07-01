@@ -43,3 +43,9 @@ needs approved account actions.
 - Inspect replies and public profiles while debugging social feedback loops.
 - Monitor project, product, or maintainer mentions.
 - Draft and post only after the user approves the final content and account.
+
+---
+
+> **Note:** This skill is contributed by the [Xquik](https://xquik.com) team and requires the Xquik Hermes Tweet plugin with a valid API key to function. For installation support, feature requests, or technical questions, please reach out to the Xquik team directly.
+>
+> *本技能由 Xquik 團隊貢獻，需配合 Xquik Hermes Tweet plugin 及 API key 使用。如有安裝疑問、功能建議或技術問題，歡迎直接聯絡 Xquik 團隊。*
